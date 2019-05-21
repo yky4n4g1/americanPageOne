@@ -1,0 +1,5 @@
+# americanPageOne
+
+CPUとアメリカンページワンができるプログラム
+
+Classとかの練習として作成
